@@ -1,0 +1,4 @@
+../Core/Src/freertos.c:37:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:63:6:StartDefaultTask	6
+../Core/Src/freertos.c:110:6:StartControlTask	3
+../Core/Src/freertos.c:133:6:StartLoggingTask	1
