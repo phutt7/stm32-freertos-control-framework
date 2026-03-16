@@ -1,4 +1,0 @@
-../Core/Src/freertos.c:37:6:MX_FREERTOS_Init	120	static
-../Core/Src/freertos.c:63:6:StartDefaultTask	32	static
-../Core/Src/freertos.c:110:6:StartControlTask	24	static
-../Core/Src/freertos.c:133:6:StartLoggingTask	96	static
