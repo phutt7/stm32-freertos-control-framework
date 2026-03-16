@@ -1,11 +1,24 @@
+# Build output
 Debug/
 Release/
+
+# IDE files
+.settings/
+.cproject
+.project
+*.launch
+*.ld
+
+# CubeMX generated (optional — some people keep the .ioc)
+*.ioc
+
+# Recordings
+Recording*/
+
+# Object/dependency files
 *.o
 *.d
 *.elf
 *.bin
 *.map
 *.su
-.settings/
-.cproject
-.project
